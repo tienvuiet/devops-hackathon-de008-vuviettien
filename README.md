@@ -1,6 +1,6 @@
-DevOps Hackathon – Đề : Quản lý sản phẩm (Shop)
+DevOps Hackathon – Đề : Quản lý thư viện (library)
 
-Thông tin sinh viên: Vũ Việt Tiến, mã sinh viên B24DTCN276, lớp HN-K24-CNTT4. Tài khoản Linux: tienvv-hnk24cntt4. GitHub: tienvuiet. Website: http://221.121.3.208:8080. Repository: https://github.com/tienvuiet/devops-hackathon-de002-nguyenvana, nhánh main.
+Thông tin sinh viên: Vũ Việt Tiến, mã sinh viên B24DTCN276, lớp HN-K24-CNTT4. Tài khoản Linux: tienvv-hnk24cntt4. GitHub: tienvuiet. Website: http://221.121.3.208:8080/. Repository: https://github.com/tienvuiet/devops-hackathon-de008-vuviettien, nhánh main.
 
 Môi trường triển khai: VPS chạy Ubuntu 24.04, Nginx 1.24.0 (Ubuntu), Git 2.43.0; sử dụng UFW và curl. Mã nguồn được triển khai tại /var/www/devops-hackathon-de002-nguyenvana/.
 
